@@ -16,14 +16,17 @@ email: "oyb7140@gmail.com"
 first_name: Youngbeen
 highlight_name: true
 interests:
+- Data Science
+- Information Modeling
+- Web Development
+- Web Management
 - Database Management
-- Computational Linguistics
-- Information Retrieval
+- System Engineering
 last_name: Oh
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Illinois at Urbana-Champaign
+  url: https://illinois.edu/
+role: Data Analyst / Database Manager
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,16 +36,13 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/oyb7140
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/0beansprout
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/youngbeen-oh/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -52,5 +52,5 @@ superuser: true
 title: Youngbeen Oh 오영빈
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Youngbeen Oh is a dedicated candidate seeking opportunities in Data Analyst and Front-end Engineer roles. He recently graduated from the University of Illinois at Urbana-Champaign with a master's degree in Information Management. His area of expertise lies in analyzing data from large, multi-source datasets and developing SQL queries to address business problems. Additionally, He has experiences in developing web content and managing web application projects. He is proficient in SQL, Python, and R, which allows me to effectively extract insights from data and contribute to the development of interactive and user-friendly web applications.
 {style="text-align: justify;"}
