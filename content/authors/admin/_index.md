@@ -12,14 +12,14 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
-first_name: Alice
+email: "oyb7140@gmail.com"
+first_name: Youngbeen
 highlight_name: true
 interests:
-- Artificial Intelligence
+- Database Management
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Oh
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
