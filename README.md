@@ -246,6 +246,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<<<<<<< HEAD
 [contributors-shield]: https://img.shields.io/github/contributors/0beansprout/yb_portfolio.svg?style=for-the-badge
 [contributors-url]: https://github.com/0beansprout/yb_portfolio/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/0beansprout/yb_portfolio.svg?style=for-the-badge
@@ -254,6 +255,16 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/0beansprout/yb_portfolio/stargazers
 [issues-shield]: https://img.shields.io/github/issues/0beansprout/yb_portfolio.svg?style=for-the-badge
 [issues-url]: https://github.com/0beansprout/yb_portfolio/issues
+=======
+[contributors-shield]: https://img.shields.io/github/contributors/0beansprout/gully_erosion_project.svg?style=for-the-badge
+[contributors-url]: https://github.com/0beansprout/gully_erosion_project/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/0beansprout/gully_erosion_project.svg?style=for-the-badge
+[forks-url]: https://github.com/0beansprout/gully_erosion_project/network/members
+[stars-shield]: https://img.shields.io/github/stars/0beansprout/gully_erosion_project.svg?style=for-the-badge
+[stars-url]: https://github.com/0beansprout/gully_erosion_project/stargazers
+[issues-shield]: https://img.shields.io/github/issues/0beansprout/gully_erosion_project.svg?style=for-the-badge
+[issues-url]: https://github.com/0beansprout/gully_erosion_project/issues
+>>>>>>> a178d6b66feb14df74b086b201b399f0ef7abab3
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
