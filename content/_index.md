@@ -91,10 +91,10 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Data Science
+      tag: Data Science
+    - name: Web Management
+      tag: Web Management
     default_button_index: 0
     filters:
       folders:
