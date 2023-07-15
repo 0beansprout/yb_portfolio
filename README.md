@@ -148,6 +148,11 @@ This is an example of how to list things you need to use the software and how to
    ```   
    
 10. Deploy website using Netlify
+   ```angular2html
+   'Useful codes to start and stop server'
+   serve_site()
+   stop_server()
+   ```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
