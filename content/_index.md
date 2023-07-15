@@ -68,30 +68,23 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
-      company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
+    - company: T&I Co.,Ltd
+      company_logo: tni
+      company_url: 'http://newtni.net/'
+      date_end: "2019-08-01"
+      date_start: "2019-05-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+          * Designed visuals and upgraded the graphic images for UX and UI on the company’s website with an outsourcing vendor
+          * Deployed and actively maintained to ensure its smooth operation and optimal performance
+          * Significantly boosted product inquiries by 80% through website enhancements, resulting in increased sales growth
+      location: Republic of Korea
+      title: Front-end Engineer, Intern
+  
     title: Experience
   design:
-    columns: "2"
+    columns: "1"
   id: experience
 - block: portfolio
   content:
