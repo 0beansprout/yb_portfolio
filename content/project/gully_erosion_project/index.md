@@ -103,7 +103,7 @@ url_video: ""
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://imgur.com/wtOHuW5)
 
@@ -127,7 +127,7 @@ The objective of this project is to develop a Python-based sample model capable 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Getting Started
 
 
 We have some sample jupyter notebooks, feel free to observe them. you can find more information [here](https://www.sciencedirect.com/science/article/pii/S2214581822002117).
@@ -165,7 +165,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 
 If you have some similar files such as raster, .tif, and data related to the gully erosion, you can experiment with the following sample Python code. It can serve as a starting point for your analysis
 
@@ -213,7 +213,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
@@ -224,7 +224,7 @@ Reference Link: [https://www.sciencedirect.com/science/article/pii/S221458182200
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Youngbeen Oh - [@0beansprout](https://linkedin.com/in/youngbeen-oh) - oyb7140@gmail.com
 

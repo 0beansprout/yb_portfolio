@@ -93,8 +93,8 @@ sections:
       tag: '*'
     - name: Data Science
       tag: Data Science
-    - name: Web Management
-      tag: Web Management
+    - name: Web Applications
+      tag: Web Applications
     default_button_index: 0
     filters:
       folders:
