@@ -211,8 +211,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-Reference Link: [https://github.com/wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)
-
+Reference Link: [HUGO](https://github.com/wowchemy/starter-hugo-academic), [Blogdown](https://jennysloane.netlify.app/blog/blogdown/)
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
