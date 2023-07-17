@@ -31,7 +31,7 @@
   <h3 align="center">Youngbeen's Portfolio Website</h3>
 
   <p align="center">
-    Personal website built in RStudio with R Blogdown package. 
+    Building a website in RStudio using the R Blogdown package.
     <br />
     <a href="https://wowchemy.com/?utm_campaign=poweredby"><strong>Explore the docs »</strong></a>
     <br />
