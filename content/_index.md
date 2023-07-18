@@ -105,6 +105,58 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
+- block: accomplishments
+  content:
+    date_format: Jan 2006
+    items:
+    - certificate_url:
+      date_end: "2023-05-01"
+      date_start: "2021-08-01"
+      description: |2-
+        * Actively engaged in weekly meetings and provided valuable input on event planning to encourage harmonious collaboration within the organization.
+        * Utilized the NYC taxi location dataset for a project that focused on visualizing taxi movements to facilitate better understanding.
+        * Developed Python-based sample models to efficiently analyze primary data from a research paper on gully erosion, then conducting data processing, analysis, model implementation, and result visualization with tools like Seaborn, Matplotlib, Geopandas, and Rasterio to gain valuable insights into gully erosion patterns.
+      organization: University of Illinois at Urbana-Champaign
+      organization_url: https://www.illinois.edu
+      title: Committee Member - Data Science & AI Society (DAIS)
+      url: ""
+    - certificate_url:
+      date_end: "2023-05-01"
+      date_start: "2022-08-01"
+      description: |2-
+        * Diligently reported event costs to the upper organization and maintained the organization's accounting books with precision as a treasurer.
+        * Participated in regular meetings, contributing to event planning and organization, ensuring a smooth flow of organizational activities. 
+ 
+      organization: University of Illinois at Urbana-Champaign
+      organization_url: https://www.illinois.edu
+      title: Treasurer - Ecclesia (Korean Community Church Group)
+      url: "https://www.joonim.church/"
+    - certificate_url: 
+      date_end: "2019-05-01"
+      date_start: "2018-08-01"
+      description: |2-
+        * Organized a picnic event to foster connections among Korean students at the University of Mississippi, and facilitating interactions with non-Korean students through engaging programs and activities.
+        * Coordinated and presented "Korean Night," an event aimed at promoting Korean culture to students and faculty, as part of the Korean Language Program hosted by the Department of Modern Languages.
+        * Engaged in the "Culture Night" event organized by the International & American Student Alliance (IASA), where operated a "Korea" booth, offering traditional Korean cuisine and providing insights into Korean culture to attendees.
+      organization: University of Mississippi
+      organization_url: https://www.olemiss.edu
+      title: President - Korean Students Association (KSA)
+      url: 
+    - certificate_url:
+      date_end: "2018-05-01"
+      date_start: "2017-08-01"
+      description: |2-
+        * Attended weekly group meetings for event planning and socializing with board members.
+        * Actively participated in multiple events organized by the International & American Student Alliance (IASA).
+      organization: University of Mississippi
+      organization_url: https://www.olemiss.edu
+      title: Committee Member - International & American Student Alliance (IASA)
+      url: "https://www.facebook.com/olemissiasa/"
+    subtitle: null
+    title: Leadership & Extracurricular Activities
+  design:
+    columns: "1"
+  id: activity
 - block: markdown
   content:
     subtitle: ""

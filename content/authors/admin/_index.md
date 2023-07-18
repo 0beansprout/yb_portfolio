@@ -20,8 +20,8 @@ interests:
 - System Engineering
 last_name: Oh
 organizations:
-- name: Database Manager
-role: Data Analyst 
+- name: 
+role: 
 social:
 - icon: envelope
   icon_pack: fas
