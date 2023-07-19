@@ -36,7 +36,7 @@
     <a href="https://wowchemy.com/?utm_campaign=poweredby"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ybportfolio.netlify.app/">View Demo</a>
+    <a href="https://0beansprout.netlify.app//">View Demo</a>
     ·
     <a href="https://github.com/0beansprout/yb_portfolio/issues">Report Bug</a>
     ·
