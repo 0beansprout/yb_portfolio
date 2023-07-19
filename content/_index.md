@@ -114,7 +114,7 @@ sections:
       date_start: "2021-08-01"
       description: |2-
         * Actively engaged in weekly meetings and provided valuable input on event planning to encourage harmonious collaboration within the organization.
-        * Utilized the NYC taxi location dataset for a project that focused on visualizing taxi movements to facilitate better understanding.
+        * Visualized the datasets from Kaggle by clustering New York City into different groups based on location and analyzing the traffic flow in and out of each cluster as a function of time throughout the day. .
         * Developed Python-based sample models to efficiently analyze primary data from a research paper on gully erosion, then conducting data processing, analysis, model implementation, and result visualization with tools like Seaborn, Matplotlib, Geopandas, and Rasterio to gain valuable insights into gully erosion patterns.
       organization: University of Illinois at Urbana-Champaign
       organization_url: https://www.illinois.edu
