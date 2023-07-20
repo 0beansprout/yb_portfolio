@@ -101,7 +101,6 @@ title: Paper Goods - Management Information Systems
 
 ### About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/Iv6DKld)
 
 The project's objective is to create a product management website using cPanel on Godaddy. The website is developed using HTML, CSS, PHP, and JavaScript and is deployed on Godaddy, making it easily accessible through web browsers.
 
