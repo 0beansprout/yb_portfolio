@@ -1,5 +1,5 @@
 ---
-date: "2023-05-27T00:00:00Z"
+date: "2021-12-10T00:00:00Z"
 external_link: 
 image:
   caption: Demonstrated image of the project
@@ -284,6 +284,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [Django-url]: https://www.djangoproject.com/
 [SQlite]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 [SQLite-url]: https://www.sqlite.org/index.html
+[PHP]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[PHP-url]: https://www.php.net/ 
 [usernamepassword-screenshot]: https://imgur.com/LxR5ZQy.png
 [permission-screenshot-1]: https://imgur.com/lRiSrgC.png
 [permission-screenshot-2]: https://imgur.com/Z2Xuu1d.png
