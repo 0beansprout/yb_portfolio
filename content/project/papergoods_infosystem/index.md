@@ -15,7 +15,7 @@ links:
   name: View Demo
   url: http://pgsalesmgmt.com/home/
   
-summary: Web Development by cPanel using HTML, CSS, PHP, JavaScript. If you want to demonstrate the project website then click `ViewDemo` button. You can login to the website using the admin account. <br>ID - admin@admin.com <br>PW - admin123
+summary: Web Development by cPanel using HTML, CSS, PHP, JavaScript. If you want to demonstrate the project website then click `ViewDemo` button. <br>ID - admin@admin.com <br>PW - admin123
 
 tags:
 - Web Applications
@@ -124,7 +124,8 @@ The project's objective is to create a product management website using cPanel o
 
 
 Please feel free to explore the contents of this website by visiting the following [link](http://pgsalesmgmt.com/home/).
-
+<br><br>
+You can login to the website using the admin account.
 <br><br>ID
 ```
 admin@admin.com
