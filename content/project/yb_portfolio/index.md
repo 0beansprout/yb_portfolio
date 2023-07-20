@@ -13,7 +13,7 @@ links:
 - icon:
   icon_pack: fab
   name: View Demo
-  url: https://ybportfolio.netlify.app/
+  url: https://0beansprout.netlify.app/
   
 summary: Building a website in RStudio using the R Blogdown package. This website serves as a demonstration of the project.
 
