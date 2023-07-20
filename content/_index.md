@@ -157,6 +157,13 @@ sections:
   design:
     columns: "1"
   id: activity
+- block: markdown
+  content:
+    subtitle: ""
+    text: '{{< gallery album="demo" >}}'
+    title: Gallery
+  design:
+    columns: "1"
 - block: contact
   content:
     address:
