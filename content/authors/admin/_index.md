@@ -16,6 +16,7 @@ interests:
 - Information Modeling
 - Web Development
 - Web Management
+- Web Applications
 - Database Management
 - System Engineering
 last_name: Oh
