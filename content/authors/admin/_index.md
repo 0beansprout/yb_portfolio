@@ -18,6 +18,8 @@ interests:
 - Web Management
 - Web Applications
 - Database Management
+- Database Design
+- Database Development
 - System Engineering
 last_name: Oh
 organizations:
@@ -44,7 +46,7 @@ superuser: true
 title: Youngbeen Oh
 
 ---
-Youngbeen Oh is a dedicated candidate seeking opportunities in Data Analyst, Database Developer, and Front-end Engineer roles. He recently graduated from the University of Illinois at Urbana-Champaign with a master's degree in Information Management. His area of expertise lies in analyzing data from large, multi-source datasets and developing SQL queries to address business problems. Additionally, He has experiences in developing web content and managing web application projects. He is proficient in SQL, Python, and R, which allows me to effectively extract insights from data and contribute to the development of interactive and user-friendly web applications.
+Youngbeen Oh is a dedicated candidate seeking opportunities in Data Analyst, Database Administrator, and Front-end Engineer roles. He recently graduated from the University of Illinois at Urbana-Champaign with a master's degree in Information Management. His area of expertise lies in analyzing data from large, multi-source datasets and developing SQL queries to address business problems. Additionally, He has experiences in developing web content and managing web application projects. He is proficient in SQL, Python, and R, which allows me to effectively extract insights from data and contribute to the development of interactive and user-friendly web applications.
 {style="text-align: justify;"}
 {{< icon name="download" pack="fas" >}} Download my {{< staticref"uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}}.
 
