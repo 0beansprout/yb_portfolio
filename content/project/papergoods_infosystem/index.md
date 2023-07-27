@@ -132,7 +132,7 @@ admin@admin.com
 ```
 PW
 ```
-admin123
+abc123
 ```
 
 <!-- ### Prerequisites
