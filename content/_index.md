@@ -76,9 +76,8 @@ sections:
       description: |2-
           Responsibilities include:
 
-          * Designed visuals and upgraded the graphic images for UX and UI on the company’s website with an outsourcing vendor
-          * Deployed and actively maintained to ensure its smooth operation and optimal performance
-          * Significantly boosted product inquiries by 80% through website enhancements, resulting in increased sales growth
+          * Collaborated with an outsourcing vendor to upgrade an existing promiscuous and untidy website, enhancing the UX and UI of the company's website by organizing the navigation bar and contents
+          * Resulted in a 50% increase in user engagement and a 30% decrease in bounce rate, which significantly boosted product inquiries by 80% and led to increased sales growth
       location: Republic of Korea
       title: Front-end Engineer, Intern
   
