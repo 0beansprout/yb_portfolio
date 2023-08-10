@@ -46,7 +46,7 @@ superuser: true
 title: Youngbeen Oh
 
 ---
-Youngbeen Oh is a dedicated candidate seeking opportunities in roles as a Data Analyst, Database Administrator, and Front-end Engineer. He recently graduated from the University of Illinois at Urbana-Champaign with a master's degree in Information Management. His expertise encompasses the entire process of exploratory data analysis (EDA), model selection, analyzing data from large, multi-source datasets, and developing SQL queries to address business problems. Additionally, He possess experience in developing web content and managing web application projects. He is proficient in SQL, Python, R, HTML, CSS, JavaScript, and PHP, enabling me to extract insights from data and contribute to the development of interactive and user-friendly web applications.
+Youngbeen Oh is a dedicated candidate seeking opportunities in roles as a Data Analyst, Database Administrator, IT Support and Front-end Engineer. He recently graduated from the University of Illinois at Urbana-Champaign with a master's degree in Information Management. His expertise encompasses the entire process of exploratory data analysis (EDA), model selection, analyzing data from large, multi-source datasets, and developing SQL queries to address business problems. Additionally, He possess experience in developing web content and managing web application projects. He is proficient in SQL, Python, R, HTML, CSS, JavaScript, and PHP, enabling me to extract insights from data and contribute to the development of interactive and user-friendly web applications.
 {style="text-align: justify;"}
 {{< icon name="download" pack="fas" >}} Download my {{< staticref"uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}}.
 
