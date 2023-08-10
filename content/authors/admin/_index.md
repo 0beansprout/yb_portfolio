@@ -20,7 +20,9 @@ interests:
 - Database Management
 - Database Design
 - Database Development
+- Database Administration
 - System Engineering
+- IT Support
 last_name: Oh
 organizations:
 - name: 
