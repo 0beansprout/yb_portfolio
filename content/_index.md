@@ -70,7 +70,7 @@ sections:
     items:
     - company: T&I Co.,Ltd
       company_logo: tni
-      company_url: 'http://newtni.net/'
+      company_url: 'http://packpia.net/main/index.html'
       date_end: "2019-08-01"
       date_start: "2019-05-01"
       description: |2-
